@@ -1,0 +1,42 @@
+ 
+        .doc-row img {
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
+        }
+
+        .card {
+            text-decoration: none;
+            color: #000;
+        }
+
+        .card span {
+            font-size: 37px;
+            font-weight: 600;
+            position: absolute;
+            top: 5px;
+            right: 19px;
+        }
+
+        .sec-footer {
+            background-color: #71f1bcbd;
+        }
+
+        .sec-footer ul li {
+            margin-bottom: 6px;
+        }
+
+        .sec-footer ul li a {
+            text-decoration: none;
+            color: #000;
+        }
+
+        .sec-footer ul li a:hover {
+            color: #3626be;
+        }
+
+        .sec-footer-copy {
+            background: #7fbb9f;
+        }
+    
+       
